@@ -227,3 +227,14 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+
+
+
+
+doctype_js = {
+    "Issue": "public/js/issue_custom.js",
+}
+
+# webform_include_js = {
+#     "Issue": "public/js/custom_web_form.js",
+# }
